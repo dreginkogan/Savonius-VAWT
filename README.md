@@ -11,7 +11,7 @@ flow-fields, compared to small horizontal-axis wind turbines (HAWT) make them a 
 
 ## Point of this project ##
 
-For me, the number one reason why I do anything is just because "I feel like it", and have trouble elaborating further. I do not remember when I got interested in VAWTs, but I
+For me, the number one reason why I do anything is just because "I feel like it", and will not elaborate further. I do not remember when I got interested in VAWTs, but I
 believe it was after I watched a single youtube video on them, which sparked my interest.
 
 What is important about this wind turbine in particular, is that I am utilizing recycled soda cans from the copious amounts of sparkling water that I drink. I had hundreds of cans
