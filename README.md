@@ -23,3 +23,7 @@ thin rod made of steel), PVC pipes, and bearings. At the current time of writing
 CAD files are stored in A360: https://a360.co/3k1Dasz
 
 Download Fusion 360 free for personal use: https://www.autodesk.com/products/fusion-360/personal-form?
+
+## Pictures ##
+
+![IMG_4705-min](https://user-images.githubusercontent.com/75654428/125171490-81866a00-e182-11eb-80b0-922069809909.png)
