@@ -1,4 +1,4 @@
-# Soda can vertical axis wind turbine #
+# Soda can VAWT #
 
 ## What is a VAWT? ##
 
