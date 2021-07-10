@@ -18,6 +18,8 @@ What is important about this wind turbine in particular, is that I am utilizing 
 lying around that I refuse to throw out, so why not use them? The other components of the design are 3D printed parts, aluminum shafts, steel sticks (or whatever you can call a
 thin rod made of steel), PVC pipes, and bearings. At the current time of writing, I have not started working on the electronics side of the project.
 
+I also know next to nothing about aerodynamics, so I will learn along the way.
+
 ## Design CAD files ##
 
 CAD files are stored in A360: https://a360.co/3k1Dasz
