@@ -27,3 +27,6 @@ Download Fusion 360 free for personal use: https://www.autodesk.com/products/fus
 ## Pictures ##
 
 ![IMG_4705-min](https://user-images.githubusercontent.com/75654428/125171490-81866a00-e182-11eb-80b0-922069809909.png)
+
+![Half_Can_Assembly_2021-Jul-10_05-34-39PM-000_CustomizedView9201446660](https://user-images.githubusercontent.com/75654428/125171796-20f82c80-e184-11eb-9860-709cd24f8883.png)
+
