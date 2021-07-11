@@ -32,3 +32,6 @@ Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/perso
 
 ![Half_Can_Assembly_2021-Jul-10_05-34-39PM-000_CustomizedView9201446660](https://user-images.githubusercontent.com/75654428/125171796-20f82c80-e184-11eb-9860-709cd24f8883.png)
 
+![Half_Can_Assembly_2021-Jul-11_06-41-31AM-000_CustomizedView12972123300](https://user-images.githubusercontent.com/75654428/125185504-2a6cad80-e1f3-11eb-9bf3-2083cf625e1e.png)
+
+
