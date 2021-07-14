@@ -14,7 +14,7 @@ flow-fields, compared to small horizontal-axis wind turbines (HAWT) make them a 
 For me, the number one reason why I do anything is just because "I feel like it", and will not elaborate further. I do not remember when I got interested in VAWTs, but I
 believe it was after I watched a single youtube video on them, which sparked my interest.
 
-What is important about this wind turbine in particular, is that I am utilizing recycled soda cans from the copious amounts of sparkling water that I drink. I had hundreds of cans lying around that I refuse to throw out, so why not use them? The other components of the design are 3D printed parts, aluminum shafts, chopsticks (for struts), PVC pipes, and bearings. The specific type of turbine I am making is an H-rotor Darrieus turbine. At the current time of writing, I have not started working on the electronics side of the project.
+What is important about this wind turbine in particular, is that I am utilizing recycled soda cans from the copious amounts of sparkling water that I drink. I had hundreds of cans lying around that I refuse to throw out, so why not use them? The other components of the design are 3D printed parts, aluminum shafts, chopsticks (for struts), PVC pipes, and bearings.At the current time of writing, I have not started working on the electronics side of the project.
 
 I also know next to nothing about aerodynamics, so I will learn along the way.
 
