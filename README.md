@@ -12,7 +12,7 @@ flow-fields, compared to small horizontal-axis wind turbines (HAWT) make them a 
 
 This wind turbine is specifically a Savonius wind turbine
 
-https://en.wikipedia.org/wiki/Savonius_wind_turbine
+"The Savonius turbine is one of the simplest turbines. Aerodynamically, it is a drag-type device, consisting of two or three scoops. Looking down on the rotor from above, a two-scoop machine might resemble the letter "S" in cross section. Because of the curvature, the scoops experience less drag when moving against the wind than when moving with the wind. The differential drag causes the Savonius turbine to spin. Because they are drag-type devices, Savonius turbines extract much less of the wind's power than other similarly-sized lift-type turbines. In practice, much of the swept area of a Savonius rotor may be near the ground if it has a short mount without an extended post, making the overall energy extraction less effective due to the lower wind speeds found at lower heights." - Wikipedia
 
 ## Point of this project ##
 
