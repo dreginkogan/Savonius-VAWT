@@ -25,9 +25,27 @@ Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/perso
 
 ## Pictures ##
 
-![5a1d6645-f706-4a26-929f-cf874313c94a](https://user-images.githubusercontent.com/75654428/125543789-885bb430-39df-42e5-985b-34c44e4a22f6.PNG)
+![IMG_5090](https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png)
 
-![IMG_4739](https://user-images.githubusercontent.com/75654428/125848049-cb36e945-71c5-427a-9389-f16a1696839f.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/75654428/132062962-bb615613-6f27-42ed-baed-b90872769e04.png)
+
+## Turbine Blades ##
+
+I am attempting to reach a final design for the turbine core (axle, part that holds the axle, and generator), but the blades will be interchangeable, which allows for experimentation.
+
+Due to the interchangeable nature of the turbine blades, it is also possible to create a different kind of VAWT, not just Savonius. Any other type of VAWT blades can be attached to the shaft of the turbine core.
+
+## Parts Needed (non-printed) ##
+
+Turbine Core
+
+- 24x soda cans (large blades) || 6x soda cans (small blades)
+- 1" diameter (inner diameter) PVC pipe, 15cm+ length
+- 3x M3 x 12mm machine screws
+- 3x M3 x 6mm machine screws
+- Nema 17 Stepper motor (non-specific for now)
+- 2x 608 ball bearings
+
 
 
 
