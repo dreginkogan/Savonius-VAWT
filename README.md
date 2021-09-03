@@ -14,17 +14,13 @@ This wind turbine is specifically a Savonius wind turbine
 
 "The Savonius turbine is one of the simplest turbines. Aerodynamically, it is a drag-type device, consisting of two or three scoops. Looking down on the rotor from above, a two-scoop machine might resemble the letter "S" in cross section. Because of the curvature, the scoops experience less drag when moving against the wind than when moving with the wind. The differential drag causes the Savonius turbine to spin. Because they are drag-type devices, Savonius turbines extract much less of the wind's power than other similarly-sized lift-type turbines. In practice, much of the swept area of a Savonius rotor may be near the ground if it has a short mount without an extended post, making the overall energy extraction less effective due to the lower wind speeds found at lower heights." - Wikipedia
 
-## Point of this project ##
+## Project ##
 
-For me, the number one reason why I do anything is just because "I feel like it", and I will not elaborate further. I do not remember when I got interested in VAWTs, but I
-believe it was after I watched a single youtube video on them, which sparked my interest.
-
-What is important about this wind turbine in particular, is that I am utilizing recycled soda cans from the copious amounts of sparkling water that I drink. I had hundreds of cans lying around that I refuse to throw out, so why not use them? The other components of the design are 3D printed parts, aluminum shafts, PVC pipes, and bearings. At the current time of writing, I have not started working on the electronics side of the project.
+I am trying to create a Savonius VAWT out of 3D-printed parts and recycled soda cans. 
 
 ## Design CAD files ##
 
 Design is stored in A360: https://a360.co/2UapfG3
-
 Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/personal-form?
 
 ## Pictures ##
