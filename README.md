@@ -1,5 +1,8 @@
 # VAWT #
 
+![IMG_5090](https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png)
+<img src="https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png" width="100" height="100">
+
 ## What is a VAWT? ##
 
 "A vertical-axis wind turbine (VAWT) is a type of wind turbine where the main rotor shaft is set transverse to the wind (but not necessarily vertically) while the main components 
@@ -22,12 +25,6 @@ I am trying to create a Savonius VAWT out of 3D-printed parts and recycled soda 
 
 Design is stored in A360: https://a360.co/2UapfG3
 Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/personal-form?
-
-## Pictures ##
-
-![IMG_5090](https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png)
-
-![Screenshot (15)](https://user-images.githubusercontent.com/75654428/132062962-bb615613-6f27-42ed-baed-b90872769e04.png)
 
 ## Turbine Blades ##
 
