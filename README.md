@@ -1,7 +1,6 @@
 # VAWT #
 
-![IMG_5090](https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png)
-<img src="https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png" width="500" height="700">
 
 ## What is a VAWT? ##
 
