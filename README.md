@@ -20,7 +20,7 @@ This wind turbine is specifically a Savonius wind turbine
 
 ## Project ##
 
-I am trying to create a Savonius VAWT out of 3D-printed parts and recycled soda cans. 
+I am trying to create a single-stage Savonius VAWT out of 3D-printed parts and recycled soda cans. 
 
 ## Design CAD files ##
 
