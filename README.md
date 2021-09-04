@@ -60,6 +60,16 @@ Rotor (Printed)
 
 - 3x large...RibSplit (large rotor) || 2x small...Rib (small rotor)
 
+Other Electronics
+  
+- 4x 1N5822 DO-201 AD diodes
+- 2x 50V capacitor (specific uF doesn't really matter)
+
 ## Assembly ##
 
 Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials need to be used. I personally used a lot of hot glue, but that may not be the most effective.
+
+## Electronics ##
+
+In order for the generator to be effective, a bridge rectifier is needed. 
+Details for its creation can be found in this video: https://www.youtube.com/watch?v=-zCTggoh994
