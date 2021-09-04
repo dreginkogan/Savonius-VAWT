@@ -49,6 +49,7 @@ Turbine Core (Printed)
 - 1x pipeEndCap
 - 2x bearingSleeve
 - 1x stepperMount
+- 1x motorToAxleCoupler
 
 Rotor (Non-Printed)
 
@@ -59,7 +60,6 @@ Rotor (Printed)
 
 - 3x large...RibSplit (large rotor) || 2x small...Rib (small rotor)
 
-## Assembly Instructions ##
+## Assembly ##
 
-
-
+Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials need to be used. I personally used a lot of hot glue, but that may not be the most effective.
