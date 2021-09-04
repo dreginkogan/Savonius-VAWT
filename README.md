@@ -1,6 +1,8 @@
 # VAWT #
 
-<img src="https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png" width="500" height="900">
+<p align="center">
+  <img width="500" height="1000" src="https://user-images.githubusercontent.com/75654428/132063026-0ff7e066-e732-4965-addc-4b3541979ebd.png" width="500" height="900">
+</p>
 
 ## What is a VAWT? ##
 
@@ -23,25 +25,41 @@ I am trying to create a Savonius VAWT out of 3D-printed parts and recycled soda 
 ## Design CAD files ##
 
 Design is stored in A360: https://a360.co/2UapfG3
+
 Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/personal-form?
 
 ## Turbine Blades ##
 
-I am attempting to reach a final design for the turbine core (axle, part that holds the axle, and generator), but the blades will be interchangeable, which allows for experimentation.
+I am attempting to reach a final design for the turbine core (axle, part that holds the axle, and generator), but the rotor will be interchangeable, which allows for experimentation.
 
-Due to the interchangeable nature of the turbine blades, it is also possible to create a different kind of VAWT, not just Savonius. Any other type of VAWT blades can be attached to the shaft of the turbine core.
+Due to the interchangeable nature of the rotor, it is also possible to create a different kind of VAWT, not just Savonius. Any other type of VAWT rotor can be attached to the shaft of the turbine.
 
-## Parts Needed (non-printed) ##
+## Parts Needed ##
 
-Turbine Core
+Turbine Core (Non-Printed)
 
-- 24x soda cans (large blades) || 6x soda cans (small blades)
 - 1" diameter (inner diameter) PVC pipe, 15cm+ length
 - 3x M3 x 12mm machine screws
 - 3x M3 x 6mm machine screws
 - Nema 17 Stepper motor (non-specific for now)
 - 2x 608 ball bearings
 
+Turbine Core (Printed)
+
+- 1x pipeEndCap
+- 2x bearingSleeve
+- 1x stepperMount
+
+Rotor (Non-Printed)
+
+- 24x soda cans (large rotor) || 6x soda cans (small rotor)
+- Aluminum Tape
+
+Rotor (Printed)
+
+- 3x large...RibSplit (large rotor) || 2x small...Rib (small rotor)
+
+## Assembly Instructions ##
 
 
 
