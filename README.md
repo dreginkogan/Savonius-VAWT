@@ -65,6 +65,10 @@ Other Electronics
 - 4x 1N5822 DO-201 AD diodes
 - 2x 50V capacitor (specific uF doesn't really matter)
 
+## Blade Creation ##
+
+Create blades by cutting soda cans into flat sheets and taping them together with aluminum tape. 
+
 ## Assembly ##
 
 Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials need to be used. I personally used a lot of hot glue, but that may not be the most effective.
