@@ -43,6 +43,7 @@ Turbine Core (Non-Printed)
 - 3x M3 x 6mm machine screws
 - Nema 17 Stepper motor (non-specific for now)
 - 2x 608 ball bearings
+- 1x 1/4" diameter aluminum rods, preferably 1m in length
 
 Turbine Core (Printed)
 
