@@ -24,57 +24,25 @@ I am trying to create a single-stage Savonius VAWT out of 3D-printed parts and r
 
 ## Design CAD files ##
 
-Design is stored in A360: https://a360.co/2UapfG3
+Once I figure out how to bulk export Fusion 360 files, I will put them into this github.
 
 Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/personal-form?
 
 ## Turbine Blades ##
 
-I am attempting to reach a final design for the turbine core (axle, part that holds the axle, and generator), but the rotor will be interchangeable, which allows for experimentation.
-
 Due to the interchangeable nature of the rotor, it is also possible to create a different kind of VAWT, not just Savonius. Any other type of VAWT rotor can be attached to the shaft of the turbine.
 
-## Parts Needed ##
+## Google sheets ##
 
-Turbine Core (Non-Printed)
+https://docs.google.com/spreadsheets/d/15GiFD8pNvUtQi8-LZ8H8-wIT5L8Z5X-Vn8ogBe61qog/edit?usp=sharing
 
-- 1" diameter (inner diameter) PVC pipe, 15cm+ length
-- 3x M3 x 12mm machine screws
-- 3x M3 x 6mm machine screws
-- Nema 17 Stepper motor (non-specific for now)
-- 2x 608 ball bearings
-- 1x 1/4" diameter aluminum rods, preferably 1m in length
-
-Turbine Core (Printed)
-
-- 1x pipeEndCap
-- 2x bearingSleeve
-- 1x stepperMount
-- 1x motorToAxleCoupler
-
-Rotor (Non-Printed)
-
-- 24x soda cans (large rotor) || 6x soda cans (small rotor)
-- Aluminum Tape
-
-Rotor (Printed)
-
-- 3x large...RibSplit (large rotor) || 2x small...Rib (small rotor)
-
-Other Electronics
-  
-- 4x 1N5822 DO-201 AD diodes
-- 2x 50V capacitor (specific uF doesn't really matter)
-
-## Blade Creation ##
-
-Create blades by cutting soda cans into flat sheets and taping them together with aluminum tape. 
-
-## Assembly ##
-
-Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials need to be used. I personally used a lot of hot glue, but that may not be the most effective.
-
-## Electronics ##
+It gives information on needed parts. Also explains how to create blades.
 
 In order for the generator to be effective, a bridge rectifier is needed. 
 Details for its creation can be found in this video: https://www.youtube.com/watch?v=-zCTggoh994
+
+## Assembly ##
+
+Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials may be used. I personally used a lot of hot glue, but that may not be the most effective. I will eventually provide more assembly details on the google sheet.
+
+
