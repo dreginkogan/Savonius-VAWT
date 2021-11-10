@@ -24,7 +24,7 @@ I am trying to create a single-stage Savonius VAWT out of 3D-printed parts and r
 
 ## Design CAD files ##
 
-Once I figure out how to bulk export Fusion 360 files, I will put them into this github.
+There is a zip attached. (It may be messy, I used a random Fusion bulk export plugin)
 
 Download Fusion 360 for free: https://www.autodesk.com/products/fusion-360/personal-form?
 
