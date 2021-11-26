@@ -43,4 +43,4 @@ Details for its creation can be found in this video: https://www.youtube.com/wat
 
 Most assembly can be figured out by looking at the CAD files. For parts that aren't attached together with screws, hot glue/superglue/high friction materials may be used. I personally used a lot of hot glue, but that may not be the most effective. I will eventually provide more documentation on assembly.
 
-For assembling each turbine blade, refer to blade_assembly.md.
+For assembling each turbine blade, refer to https://github.com/dreginkogan/Savonius-VAWT/blob/main/blade_assembly.md.
